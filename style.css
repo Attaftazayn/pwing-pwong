@@ -1,0 +1,41 @@
+@import url('httpsL//fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    text-align: center;
+    background-color: #0e141f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    position: fixed;
+    width: 100%;
+}
+
+h1 {
+    color: #15c2b9;
+    font-family: 'Castoro Titling';
+}
+
+p {
+    color: #15c2b9;
+}
+
+.chat {
+    color: #fff;
+    font-family: 'Cabin';
+  }
+  
+.aku {
+    color: #15c2b9;
+    font-family: 'Poppins';
+    font-weight: 900;
+    text-decoration: none;
+  }
+
+div {
+    padding-top: 10px;
+}
